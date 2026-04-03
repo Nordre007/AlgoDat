@@ -1,7 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-// 🔥 Standard BFS
 int bfs(int src, int target, const vector<vector<int>>& graph) {
     if (src == target) return 0;
 
@@ -49,13 +48,11 @@ int main() {
         }
     }
 
-    //  Build DIRECTED graph
     vector<vector<int>> graph(n);
 
     for (int i = 0; i < n; ++i) {
         array<uint8_t, 26> need = {};
 
-        // last 4 letters of A
         for (int j = 1; j < 5; ++j) {
             need[words[i][j] - 'a']++;
         }
