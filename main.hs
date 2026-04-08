@@ -1,0 +1,4 @@
+
+
+type Graph = [(String, [String])]
+

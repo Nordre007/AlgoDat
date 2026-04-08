@@ -1,0 +1,40 @@
+Hello!
+
+Here are some useful links for the course.
+
+https://cloud.timeedit.net/lu/web/ht3/ri169XQQ711Z50Qf27073gZ6y5Y7001Q5Y73Y5.html
+
+Course discord: https://discord.gg/P5m5vwfNYC
+
+Tresorit cloud directory with all relevant files:
+
+https://web.tresorit.com/l/4w71o#c1Y5LzdXM1FkjhUbWSBQfQ
+
+Tresorit is owned by the Swiss post and is a distributed encrypted synchronized file system. There are apps for it for phones and computers.
+
+You can sign up to labs here: https://sam.cs.lth.se/LabsSelectSession?occasionId=975
+
+If you want to work solo, please try to match with somebody else in the #solo-laboranter discord channel!
+
+Course book: new edition 2026.
+
+https://www.amazon.se/-/en/dp/B0GP6ZZGKK
+
+https://www.amazon.se/-/en/dp/B0GNZRTCBH
+
+There is only an oral exam and no written exam (as for all my courses). You don't need to sign up in Ladok for an oral exam.
+
+You can take the exam as soon as you have done all labs. Sign up here: https://calendly.com/forsete/office-hours
+
+There are slots from now until the day before Midsummer. If you fail, you can retake the it after at least one week (if there are slots available).
+
+You can book a time slot also for asking me questions. You can ask as much as you want and there is no upper limit. My goal, obviously, is that 100 % will pass the course with grade 5 (it has not happened yet).
+
+In the exam, you are allowed to bring one book plus 8 A4 pages (hand written or printed on PAPER from pdf --- no electronic device).
+
+Youtube videos for the course can be found at https://jonasskeppstedt.net 
+
+Note they are not official for the course and not updated.
+
+Have fun,
+Jonas
