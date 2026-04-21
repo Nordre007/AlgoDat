@@ -4,7 +4,7 @@
 using namespace std;
 
 size_t OpenLinearHashTable::hashFunction(const string& key) {
-    return hash<string>{}(key) % capacity;
+    return hash<string>{}(key) & (capacity -1);
 }
 
 double OpenLinearHashTable::loadFactor(int numberOfElements, int capacity) {
