@@ -13,7 +13,7 @@ int Prim(set<int>& vertices, map<pair<int, int>, int>& edges) {
     int total = 0;
     while(visited.size() < vertices.size()) {
 
-        int smallest = 1000000;
+        int smallest = 1000001;
         int tempvertex = -1;
         for(int vertex : visited) {
             for(const auto& [key, value] : edges) {
